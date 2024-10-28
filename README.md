@@ -1,12 +1,14 @@
 # Bitcoin-prediction project
 
 ### 1 첫번째 방법 (first method)
-Dataset list( ex. readdit twitter, news) used to sentiment analysis with dataset of coin price( ex. binance, upbit coin price dataset). And we use cross validation to check variation is minus and alse momentem investment. But it have some problem. First is dataset limitation of precise prediction and second is price change isn't good at prediction.
+Dataset list (e.g., Reddit, Twitter, news) used for sentiment analysis with a dataset of coin prices (e.g., Binance, Upbit). We use cross-validation to check if the variation is negative and apply momentum investment. However, there are challenges, including dataset limitations for precise prediction and poor predictability of price changes.
 
-<div align=center>
-  ![1](https://github.com/user-attachments/assets/94cffba7-6251-4dea-ac10-6f462df37f25)
-</div>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/94cffba7-6251-4dea-ac10-6f462df37f25" alt="1">
+</p>
 
-### 2 두번쟤 방법 (Second method)
+### 2 두번째 방법 (second method)
 
-![2](https://github.com/user-attachments/assets/8568f471-89e4-49ef-8e9e-40bed880e414)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8568f471-89e4-49ef-8e9e-40bed880e414" alt="2">
+</p>
