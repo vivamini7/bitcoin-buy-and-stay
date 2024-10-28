@@ -1,7 +1,8 @@
 <h1>Bitcoin-prediction project</h1>
 
 <h3>1</h3>
-[Page_1.pdf](https://github.com/user-attachments/files/17537798/Page_1.pdf)
+
 
 <h3>2</h3>
-[Page_2.pdf](https://github.com/user-attachments/files/17537801/Page_2.pdf)
+![image](https://github.com/user-attachments/assets/86aa9e37-52cc-4439-98c5-f32da5923669)
+
